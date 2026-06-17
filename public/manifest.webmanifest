@@ -1,0 +1,32 @@
+{
+  "name": "Billionaire Paradise Valley",
+  "short_name": "BPV",
+  "description": "The alignment sanctuary of Sascha Gorokhoff — sovereign manifestation, devotion, and the recognition of the life already underway in Paradise Valley.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#050b16",
+  "theme_color": "#0a1628",
+  "categories": ["lifestyle", "productivity", "personalization"],
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-512.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+name = "billionaire-paradise-valley"
+compatibility_date = "2026-05-01"
+pages_build_output_dir = "public"
+
+# KV namespace binding for storing auth and synced user data
+# After running `wrangler kv:namespace create SOVEREIGN_KV`, paste the ID below.
+[[kv_namespaces]]
+binding = "SOVEREIGN_KV"
+id = "0e2071fa68e64ec5a568879f7a7ba5eb"
